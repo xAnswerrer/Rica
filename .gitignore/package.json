@@ -1,0 +1,19 @@
+{
+  "name": "rica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "lowdb": "^1.0.0",
+    "fs-extra": "^7.0.0",
+    "ytdl-core": "^0.28.0",
+    "opusscript": "^0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xAnswerrer",
+  "license": "ISC"
+}
